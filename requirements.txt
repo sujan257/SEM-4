@@ -2,7 +2,7 @@ fastai
 numpy
 pandas
 nltk
-sklearn
+scikit-learn
 random
 torch
 sentence_transformers
