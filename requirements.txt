@@ -9,4 +9,4 @@ sentence-transformers>=2.0.0
 sentencepiece
 pytorch-ignite==0.5.0.post2
 pytorch-lightning==2.2.5
-numpy @ file:///home/conda/feedstock_root/build_artifacts/numpy_1707225380409/work/dist/numpy-1.26.4-cp310-cp310-linux_x86_64.whl#sha256=51131fd8fc130cd168aecaf1bc0ea85f92e8ffebf211772ceb16ac2e7f10d7ca
+numpy ==1.24.3
