@@ -1,0 +1,11 @@
+fastai==2.7.15
+numpy
+pandas
+math
+collections
+nltk
+sklearn
+random
+torch
+sentence_transformers
+transformers
